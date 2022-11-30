@@ -1,0 +1,1 @@
+# Application-of-metacellular-automata-based-operations-research-to-single-room-evacuation
